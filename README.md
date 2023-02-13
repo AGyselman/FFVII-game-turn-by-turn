@@ -14,6 +14,8 @@ You can also decide to flee and **lose** the fight :feet:.
 
 If you **win** the fight the iconic **Final Fantasy music** will come in your ears :notes:.
 
+:speech_balloon: **Combat logs** are at your disposal to know how much damage your attacks do, how much damage **Barret** puts on us, and the amount of health points recovered when we heal ourselves.
+
 Have fun :smile:.
 
 The design of this page is realized with:
